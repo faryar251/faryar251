@@ -19,9 +19,9 @@ _______
 
 _________
 ### 📊 GitHub Stats
-[![Faryar's GitHub stats](https://github-readme-stats.vercel.app/api?username=faryar251&show_icons=true&theme=dracula)](https://github.com/faryar251/github-readme-stats)
+[![Faryar's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=faryar251&show_icons=true&theme=dracula)](https://github.com/faryar251/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faryar251&layout=compact&theme=dracula)](https://github.com/faryar251/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=faryar251&layout=compact&theme=dracula)](https://github.com/faryar251/github-readme-stats)
 
 ________
 
