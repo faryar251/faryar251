@@ -1,4 +1,4 @@
-# 🌻 Hello folks, I'm Faryar (She/Her).
+# 🌻 Hello, I'm Faryar
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=faryar251.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors) Nice to meet you! I'm working towards creating a position for myself in Data Science industry. I mostly work on Jupyter Notebooks & Python. I'm also an occasional writer at [Medium](https://medium.com/@faryar.m).
 <!-- ______ -->
 #### 📧 Connect with me!
@@ -11,7 +11,6 @@ ______
 - 🔭 Currently I'm learning Regression, Data Structures, Statistics & working on understanding the dataflow with math in any ML Algorithm.
 - 👯 I'm open to opportunities, networking and discussions.
 - 📫 You can reach out to me by following the links provided above👆🏻
-- ⚡ Fun fact: Aside from liking gaming, reading books/manga/manhwa and watching anime/kdrama, I'm totally used to my name getting butchered by people (yeah🙂).
 _______
 
 ### 💻 Tech Stack
